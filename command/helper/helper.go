@@ -25,8 +25,8 @@ import (
 
 const (
 	GenesisFileName       = "./genesis.json"
-	DefaultChainName      = "example"
-	DefaultChainID        = 100
+	DefaultChainName      = "voltium"
+	DefaultChainID        = 103
 	DefaultPremineBalance = "0x3635C9ADC5DEA00000" // 1000 ETH
 	DefaultConsensus      = "pow"
 	DefaultMaxSlots       = 4096

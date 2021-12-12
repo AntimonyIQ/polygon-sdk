@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "voltium",
   "params": {
     "forks": {
       "homestead": 0,
@@ -8,7 +8,7 @@
       "eip158": 0,
       "eip155": 0
     },
-    "chainID": 100,
+    "chainID": 103,
     "engine": {
       "pow": {}
     }
